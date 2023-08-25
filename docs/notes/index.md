@@ -1,5 +1,5 @@
 # COSC 101C, Fall 2023
 
-- Welcome to Introduction to Computing I (2023-08-24) [[Worksheet]](./8_24.pdf)
+- Welcome to Introduction to Computing I (2023-08-24) [[Worksheet]](./notes/8_24.pdf) [[Notes]](./answers/8_24_answers.pdf)
 
-- Introduction to Python I (2023-08-25) [[Worksheet]](./8_25.pdf)
+- Introduction to Python I (2023-08-25) [[Worksheet]](./notes/8_25.pdf) [[Notes]](./answers/8_25_answers.pdf)
