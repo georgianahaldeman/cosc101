@@ -8,6 +8,6 @@
 
 - Sequences (2023-08-31) [[Worksheet]](./notes/8_31.pdf) [[Notes]](./answers/8_31_answers.pdf)
 
-- Functions I (2023-09-05) [[Worksheet]](./notes/9_5.pdf) 
+- Functions I (2023-09-05) [[Worksheet]](./notes/9_5.pdf) [[Notes]](./answers/9_5_answers.pdf)
 
-- Functions II (2023-09-07) [[Worksheet]](./notes/9_7.pdf) 
+- Functions II (2023-09-07) [[Worksheet]](./notes/9_7.pdf) [[Notes]](./answers/9_7_answers.pdf)
