@@ -11,3 +11,5 @@
 - Functions I (2023-09-05) [[Worksheet]](./notes/9_5.pdf) [[Notes]](./answers/9_5_answers.pdf)
 
 - Functions II (2023-09-07) [[Worksheet]](./notes/9_7.pdf) [[Notes]](./answers/9_7_answers.pdf)
+
+- Iteration I (2023-09-12) [[Worksheet]](./notes/9_12.pdf) 
