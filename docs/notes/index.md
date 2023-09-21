@@ -17,3 +17,5 @@
 - Iteration II (2023-09-14) [[Worksheet]](./notes/9_14.pdf) [[Notes]](./answers/9_14_answers.pdf)
 
 - Conditions and Logic I (2023-09-19) [[Worksheet]](./notes/9_19.pdf)
+
+- Conditions and Logic II (2023-09-21) [[Worksheet]](./notes/9_21.pdf)
