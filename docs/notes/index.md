@@ -20,4 +20,4 @@
 
 - Conditions and Logic II (2023-09-21) [[Worksheet]](./notes/9_21.pdf)
 
-- Exam 1 Review (2023-09-26) [[Practice Exam]](./notes/9_26.pdf)
+- Exam 1 Review (2023-09-26) [[Practice Exam]](./notes/9_26.pdf)[[Answers]](./answers/9_26_answers.pdf)
