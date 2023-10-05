@@ -6,7 +6,7 @@
 
 - Introduction to Python II (2023-08-29) [[Worksheet]](./notes/8_29.pdf) [[Notes]](./answers/8_29_answers.pdf)
 
-- Sequences (2023-08-31) [[Worksheet]](./notes/8_31.pdf) [[Notes]](./answers/8_31_answers.pdf)
+- Sequences I (2023-08-31) [[Worksheet]](./notes/8_31.pdf) [[Notes]](./answers/8_31_answers.pdf)
 
 - Functions I (2023-09-05) [[Worksheet]](./notes/9_5.pdf) [[Notes]](./answers/9_5_answers.pdf)
 
@@ -16,10 +16,12 @@
 
 - Iteration II (2023-09-14) [[Worksheet]](./notes/9_14.pdf) [[Notes]](./answers/9_14_answers.pdf)
 
-- Conditions and Logic I (2023-09-19) [[Worksheet]](./notes/9_19.pdf)
+- Conditions and Logic I (2023-09-19) [[Worksheet]](./notes/9_19.pdf) [[Notes]](./answers/9_19_answers.pdf)
 
-- Conditions and Logic II (2023-09-21) [[Worksheet]](./notes/9_21.pdf)
+- Conditions and Logic II (2023-09-21) [[Worksheet]](./notes/9_21.pdf) [[Notes]](./answers/9_21_answers.pdf)
 
 - Exam 1 Review (2023-09-26) [[Practice Exam]](./notes/9_26.pdf)[[Answers]](./answers/9_26_answers.pdf)
 
-- Iteration III (2023-10-03) [[Worksheet]](./notes/10_3.pdf)
+- Iteration III (2023-10-03) [[Worksheet]](./notes/10_3.pdf) [[Notes]](./answers/10_3_answers.pdf)
+
+- Sequences II and Mutability (2023-10-05) [[Worksheet]](./notes/10_5.pdf)
