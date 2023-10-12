@@ -24,4 +24,6 @@
 
 - Iteration III (2023-10-03) [[Worksheet]](./notes/10_3.pdf) [[Notes]](./answers/10_3_answers.pdf)
 
-- Sequences II and Mutability (2023-10-05) [[Worksheet]](./notes/10_5.pdf)
+- Sequences II and Mutability I (2023-10-05) [[Worksheet]](./notes/10_5.pdf)
+
+- Mutability II and Practice Problems (2023-10-05) [[Worksheet]](./notes/10_12.pdf)
