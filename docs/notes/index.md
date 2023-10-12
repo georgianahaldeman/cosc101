@@ -26,4 +26,4 @@
 
 - Sequences II and Mutability I (2023-10-05) [[Worksheet]](./notes/10_5.pdf)
 
-- Mutability II and Practice Problems (2023-10-05) [[Worksheet]](./notes/10_12.pdf)
+- Mutability II and Practice Problems (2023-10-12) [[Worksheet]](./notes/10_12.pdf)
