@@ -28,4 +28,4 @@
 
 - Mutability II and Practice Problems (2023-10-12) [[Worksheet]](./notes/10_12.pdf)
 
-- Exam 2 Review (2023-10-17) [[Practice Exam]](./notes/10_27.pdf)
+- Exam 2 Review (2023-10-17) [[Practice Exam]](./notes/10_17.pdf) [[Notes]](./answers/10_17_answers.pdf)
