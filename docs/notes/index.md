@@ -31,4 +31,4 @@
 - Exam 2 Review (2023-10-17) [[Practice Exam]](./notes/10_17.pdf) [[Answers]](./answers/10_17_answers.pdf)
 
 
-- Dictionaries (2023-10-24) [[Worksheet]](./notes/10_24.pdf)
+- Dictionaries (2023-10-24) [[Worksheet]](./notes/10_24.pdf) [[Notes]](./answers/10_24_answers.pdf)
