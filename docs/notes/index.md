@@ -32,3 +32,5 @@
 
 
 - Dictionaries (2023-10-24) [[Worksheet]](./notes/10_24.pdf) [[Notes]](./answers/10_24_answers.pdf)
+
+- Nested Data and Iteration (2023-10-26) [[Worksheet]](./notes/10_26.pdf)
