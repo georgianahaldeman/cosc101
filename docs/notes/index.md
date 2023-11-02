@@ -36,3 +36,5 @@
 - Nested Data and Iteration (2023-10-26) [[Worksheet]](./notes/10_26.pdf) [[Notes]](./answers/10_26_answers.pdf)
 
 - File Input-Ouput I (2023-10-31) [[Worksheet]](./notes/10_31.pdf)
+
+- File Input-Ouput II and Exceptions (2023-11-02) [[Worksheet]](./notes/11_2.pdf)
