@@ -42,3 +42,5 @@
 - CSV Files (2023-11-07) [[Worksheet]](./notes/11_7.pdf) [[Notes]](./answers/11_7_answers.pdf)
 
 - Recursion (2023-11-09) [[Worksheet]](./notes/11_9.pdf) [[Notes]](./answers/11_9_answers.pdf)
+
+- Homework 8 in-class work (2023-11-28) [[Files]](./notes/hw8.zip)
