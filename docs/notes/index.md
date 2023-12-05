@@ -43,4 +43,6 @@
 
 - Recursion (2023-11-09) [[Worksheet]](./notes/11_9.pdf) [[Notes]](./answers/11_9_answers.pdf)
 
-- Homework 8 in-class work (2023-11-28) [[Files]](./notes/hw8.zip)
+- Homework 8 in-class work (2023-11-28) [[Files]](./notes/hw8.zip) 
+
+- Visualizing Data (2023-12-05) [[Worksheet]](./notes/12_5.pdf) [[Colab Link]](https://colab.research.google.com/drive/1kP9Q8EVM3vaXOFOiZEktlMrAyGArUb8d?usp=sharing)
