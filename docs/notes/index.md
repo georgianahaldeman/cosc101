@@ -1,6 +1,8 @@
-# COSC 101C, Fall 2023
+# COSC 101, Spring 2024
 
-- Welcome to Introduction to Computing I (2023-08-24) [[Worksheet]](./notes/8_24.pdf) [[Notes]](./answers/8_24_answers.pdf)
+
+
+<!-- - Welcome to Introduction to Computing I (2023-08-24) [[Worksheet]](./notes/8_24.pdf) [[Notes]](./answers/8_24_answers.pdf)
 
 - Introduction to Python I (2023-08-25) [[Worksheet]](./notes/8_25.pdf) [[Notes]](./answers/8_25_answers.pdf)
 
@@ -47,4 +49,4 @@
 
 - Visualizing Data (2023-12-05) [[Worksheet]](./notes/12_5.pdf) [[Colab Link]](https://colab.research.google.com/drive/1kP9Q8EVM3vaXOFOiZEktlMrAyGArUb8d?usp=sharing)
 
-- Final Review (2023-12-07) [[In-class Code]](./notes/review.zip)
+- Final Review (2023-12-07) [[In-class Code]](./notes/review.zip) -->
