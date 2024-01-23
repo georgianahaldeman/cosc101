@@ -1,6 +1,6 @@
 # COSC 101, Spring 2024
 
-- Welcome to Introduction to Computing I (2024-01-22) [[Worksheet]](./files/1_22.pdf)
+- Welcome to Introduction to Computing I (2024-01-22) [[Notes]](./files/1_22.pdf)
 
 <!-- - Welcome to Introduction to Computing I (2023-08-24) [[Worksheet]](./notes/8_24.pdf) [[Notes]](./answers/8_24_answers.pdf)
 
