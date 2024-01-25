@@ -5,8 +5,9 @@
 - Introduction to Python I (2024-01-23) [[Worksheet]](./files/1_23.pdf) [[Answers]](./files/1_23_ans.pdf)[[Instructor Notes]](./notes/1_23.txt)
 
 - Introduction to Python II (2024-01-25) [[Worksheet]](./files/1_25.pdf)
-<!-- 
 
+
+<!-- 
 - Sequences I (2023-08-31) [[Worksheet]](./notes/8_31.pdf) [[Notes]](./answers/8_31_answers.pdf)
 
 - Functions I (2023-09-05) [[Worksheet]](./notes/9_5.pdf) [[Notes]](./answers/9_5_answers.pdf)
