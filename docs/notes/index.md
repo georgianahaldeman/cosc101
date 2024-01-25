@@ -2,7 +2,7 @@
 
 - Welcome to Introduction to Computing I (2024-01-22) [[Notes]](./files/1_22.pdf)
 
-- Introduction to Python I (2024-01-23) [[Worksheet]](./files/1_23.pdf) [[Notes]](./files/1_23_ans.pdf)
+- Introduction to Python I (2024-01-23) [[Worksheet]](./files/1_23.pdf) [[Answers]](./files/1_23_ans.pdf)[[Instructor Notes]](./notes/1_23.txt)
 
 <!-- - Welcome to Introduction to Computing I (2023-08-24) [[Worksheet]](./notes/8_24.pdf) [[Notes]](./answers/8_24_answers.pdf)
 
