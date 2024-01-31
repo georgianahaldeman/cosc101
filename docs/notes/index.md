@@ -6,7 +6,7 @@
 
 - Introduction to Python II (2024-01-25) [[Worksheet]](./files/1_25.pdf) [[Answers]](./files/1_25_ans.pdf)[[Instructor Notes]](./notes/1_25.txt)
 
-- Functions I (2024-01-30) [[Worksheet]](./files/1_30.pdf)
+- Functions I (2024-01-30) [[Worksheet]](./files/1_30.pdf) [[Answers]](./files/1_30_ans.pdf)
 
 - Functions II (2024-02-01) 
 
