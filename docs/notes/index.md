@@ -8,7 +8,7 @@
 
 - Functions I (2024-01-30) [[Worksheet]](./files/1_30.pdf) [[Answers]](./files/1_30_ans.pdf)
 
-- Functions II (2024-02-01) [[Worksheet]](./files/2_1.pdf) 
+- Functions II (2024-02-01) [[Worksheet]](./files/2_1.pdf) [[Answers]](./files/2_1_ans.pdf)
 
 - Iteration I (2024-02-06) 
 
