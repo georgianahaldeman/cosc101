@@ -1,0 +1,7 @@
+This week we learned about types of functions beyond built-in Python functions, in particular, module functions and user/programmer-defined functions. Module functions have been already implemented by Python developers; to use them, we must import the module in our program and then include the name of the module in every function call that invokes a module function.
+
+Programmer-defined functions enable us to break down our programs in cohesive and testable (more on this in the near future) pieces. Optimal program designs include functions for all distinctive features in our programs (which enhances readability) and aims to increase reusability while decreasing repetition. The process of breaking down our program into functions is called functional decomposition and the process of combining these functions in our programs is called procedural composition.
+
+Functions have mechanisms for exchanging information, to and from a function. The mechanism of passing information to a function is called parameter passing. The variable or value that appears in the function call is called an argument. The information of the argument is passed to the function, and the function captures this information via the parameter. A function can communicate information back to its caller via return statements. 
+
+Using the function mechanisms we can design and implement functions that leverage different information to produce different but isomorphic outcomes and thus increase reusability while decreasing repetition in our programs (and arrive at more optimal designs). 

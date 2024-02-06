@@ -2,23 +2,23 @@
 
 - Welcome to Introduction to Computing I (2024-01-22) [[Notes]](./files/1_22.pdf)
 
-- Introduction to Python I (2024-01-23) [[Worksheet]](./files/1_23.pdf) [[Answers]](./files/1_23_ans.pdf)[[Instructor Notes]](./notes/1_23.txt)
+- Introduction to Python I (2024-01-23) [[Worksheet]](./files/1_23.pdf) [[Answers]](./files/1_23_ans.pdf) [[Instructor Notes]](./notes/1_23.txt)
 
-- Introduction to Python II (2024-01-25) [[Worksheet]](./files/1_25.pdf) [[Answers]](./files/1_25_ans.pdf)[[Instructor Notes]](./notes/1_25.txt)
+- Introduction to Python II (2024-01-25) [[Worksheet]](./files/1_25.pdf) [[Answers]](./files/1_25_ans.pdf) [[Instructor Notes]](./notes/1_25.txt)
 
 - Functions I (2024-01-30) [[Worksheet]](./files/1_30.pdf) [[Answers]](./files/1_30_ans.pdf)
 
-- Functions II (2024-02-01) [[Worksheet]](./files/2_1.pdf) [[Answers]](./files/2_1_ans.pdf)
+- Functions II (2024-02-01) [[Worksheet]](./files/2_1.pdf) [[Answers]](./files/2_1_ans.pdf) [[Instructor Notes]](./notes/2_1.txt)
 
-- Iteration I (2024-02-06) 
+- Sequences I and Iteration I (2024-02-06) 
 
 - Iteration II (2024-02-08) 
 
-- Sequences I (2024-02-13) 
+- Sequences II (2024-02-13) 
 
 - Conditions and Logic I (2024-02-15)
 
-- Exam 1 Review (2024-02-20) [[Fall 2023 Practice Exam]](./fall2023/9_26.pdf)[[Fall 2023 Exam 1]](./files/exam1_2024.pdf)
+- Exam 1 Review (2024-02-20) [[Fall 2023 Practice Exam]](./fall2023/9_26.pdf)[[Fall 2023 Exam 1]](./files/exam1_fall23.pdf)
 
 <!-- 
 - Conditions and Logic II (2023-09-21) [[Worksheet]](./notes/9_21.pdf) [[Notes]](./answers/9_21_answers.pdf)
