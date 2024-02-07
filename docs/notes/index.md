@@ -10,7 +10,7 @@
 
 - Functions II (2024-02-01) [[Worksheet]](./files/2_1.pdf) [[Answers]](./files/2_1_ans.pdf) [[Instructor Notes]](./notes/2_1.txt)
 
-- Sequences I and Iteration I (2024-02-06) [[Worksheet]](./files/2_6.pdf)
+- Sequences I and Iteration I (2024-02-06) [[Worksheet]](./files/2_6.pdf) [[Answers]](./files/2_6_ans.pdf)
 
 - Iteration II (2024-02-08) 
 
