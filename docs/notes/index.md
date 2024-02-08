@@ -12,7 +12,7 @@
 
 - Sequences I and Iteration I (2024-02-06) [[Worksheet]](./files/2_6.pdf) [[Answers]](./files/2_6_ans.pdf)
 
-- Iteration II (2024-02-08) 
+- Iteration II (2024-02-08) [[Worksheet]](./files/2_8.pdf)
 
 - Sequences II (2024-02-13) 
 
