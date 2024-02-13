@@ -14,7 +14,7 @@
 
 - Iteration II (2024-02-08) [[Worksheet]](./files/2_8.pdf) [[Answers]](./files/2_8_ans.pdf)
 
-- Sequences II (2024-02-13) 
+- Sequences II (2024-02-13) [[Worksheet]](./files/2_13.pdf) 
 
 - Conditions and Logic I (2024-02-15)
 
