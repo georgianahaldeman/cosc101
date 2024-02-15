@@ -16,7 +16,7 @@
 
 - Sequences II (2024-02-13) [[Worksheet]](./files/2_13.pdf) [[Answers]](./files/2_13_ans.pdf)
 
-- Conditions and Logic I (2024-02-15)
+- Conditions and Logic I (2024-02-15) [[Worksheet]](./files/2_15.pdf)
 
 - Exam 1 Review (2024-02-20) [[Fall 2023 Practice Exam]](./fall2023/9_26.pdf)[[Fall 2023 Exam 1]](./files/exam1_fall23.pdf)
 
