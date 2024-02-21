@@ -18,7 +18,7 @@
 
 - Conditions and Logic I (2024-02-15) [[Worksheet]](./files/2_15.pdf) [[Answers]](./files/2_15_ans.pdf)
 
-- Exam 1 Review (2024-02-20) [[Fall 2023 Practice Exam]](./fall2023/9_26.pdf)[[Fall 2023 Exam 1]](./files/exam1_fall23.pdf)
+- Exam 1 Review (2024-02-20) [[Fall 2023 Practice Exam]](./fall2023/9_26.pdf) [[Practice Answers]](./fall2023/9_26_answers.pdf) [[Fall 2023 Exam 1]](./files/exam1_fall23.pdf) [[Exam Answers]](./files/f23_exam1_ans.pdf)
 
 <!-- 
 - Conditions and Logic II (2023-09-21) [[Worksheet]](./notes/9_21.pdf) [[Notes]](./answers/9_21_answers.pdf)
