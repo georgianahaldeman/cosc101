@@ -20,11 +20,11 @@
 
 - Exam 1 Review (2024-02-20) [[Fall 2023 Practice Exam]](./fall2023/9_26.pdf) [[Practice Answers]](./fall2023/9_26_answers.pdf) [[Fall 2023 Exam 1]](./files/exam1_fall23.pdf) [[Exam Answers]](./files/f23_exam1_ans.pdf)
 
-<!-- 
-- Conditions and Logic II (2023-09-21) [[Worksheet]](./notes/9_21.pdf) [[Notes]](./answers/9_21_answers.pdf)
+ 
+- Conditions and Logic II (2024-02-29) [[Worksheet]](./files/2_29.pdf) 
 
 
-
+<!--
 - Iteration III (2023-10-03) [[Worksheet]](./notes/10_3.pdf) [[Notes]](./answers/10_3_answers.pdf)
 
 - Sequences II and Mutability I (2023-10-05) [[Worksheet]](./notes/10_5.pdf) [[Notes]](./answers/10_5_answers.pdf)
