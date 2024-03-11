@@ -25,7 +25,7 @@
 
 - Iteration III (2024-03-05) [[Worksheet]](./files/3_5.pdf) [[Answers]](./files/3_5_ans.pdf) 
 
-- Exam 2 Review (2024-03-07) [[Practice Exam]](./fall2023/10_17.pdf) 
+- Exam 2 Review (2024-03-07) [[Practice Exam]](./fall2023/10_17.pdf) [[Answers]](./fall2023/10_17_answers.pdf)
 
 
 <!--
