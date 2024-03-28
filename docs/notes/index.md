@@ -23,9 +23,9 @@
  
 - Conditions and Logic II (2024-02-29) [[Worksheet]](./files/2_29.pdf) [[Answers]](./files/2_29_ans.pdf) 
 
-- Iteration III (2024-03-05) [[Worksheet]](./files/3_5.pdf)
+- Iteration III (2024-03-05) [[Worksheet]](./files/3_5.pdf) [[Answers]](./files/3_5_ans.pdf) 
 
-- Exam 2 Review (2024-03-07) [[Practice Exam]](./fall2023/10_17.pdf) 
+- Exam 2 Review (2024-03-07) [[Practice Exam]](./fall2023/10_17.pdf) [[Answers]](./fall2023/10_17_answers.pdf)
 
 - Sequences III and Mutability (2024-03-26) [[Worksheet]](./files/3_26.pdf) [[Answers]](./files/3_26_ans.pdf)
 
