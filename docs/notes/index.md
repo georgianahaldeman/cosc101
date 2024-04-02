@@ -29,7 +29,7 @@
 
 - Sequences III and Mutability (2024-03-26) [[Worksheet]](./files/3_26.pdf) [[Answers]](./files/3_26_ans.pdf)
 
-- Dictionaries (2024-03-28) [[Worksheet]](./files/3_28.pdf)
+- Dictionaries (2024-03-28) [[Worksheet]](./files/3_28.pdf) [[Answers]](./files/3_28_ans.pdf)
 
 <!--
 - Sequences II and Mutability I (2023-10-05) [[Worksheet]](./notes/10_5.pdf) [[Notes]](./answers/10_5_answers.pdf)
