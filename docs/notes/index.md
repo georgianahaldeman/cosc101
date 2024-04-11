@@ -33,7 +33,9 @@
 
 - Nested Data and Iteration (2024-04-02) [[Worksheet]](./files/4_2.pdf) [[Answers]](./files/4_2_ans.pdf)
 
-- File Input-Ouput I (2024-04-09) [[Worksheet]](./files/4_9.pdf)
+- File Input-Ouput I (2024-04-09) [[Worksheet]](./files/4_9.pdf) [[Answers]](./files/4_9_ans.pdf)
+
+- File Input-Ouput II and Exceptions (2024-04-11) [[Worksheet]](./files/4_11.pdf)
 
 <!--
 - Sequences II and Mutability I (2023-10-05) [[Worksheet]](./notes/10_5.pdf) [[Notes]](./answers/10_5_answers.pdf)
