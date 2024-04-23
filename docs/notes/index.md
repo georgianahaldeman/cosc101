@@ -39,6 +39,8 @@
 
 - Exam 3 Review (2024-04-16) [[Lab 10]](./files/lab10.zip) [[Worksheet]](./files/4_16.pdf) [[Answers]](./files/4_16_ans.pdf)
 
+- File Input-Ouput III: CSV Files (2024-04-23) [[Worksheet]](./files/4_23.pdf)
+
 <!--
 - Sequences II and Mutability I (2023-10-05) [[Worksheet]](./notes/10_5.pdf) [[Notes]](./answers/10_5_answers.pdf)
 
