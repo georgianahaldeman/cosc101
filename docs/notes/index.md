@@ -41,7 +41,9 @@
 
 - File Input-Ouput III: CSV Files (2024-04-23) [[Worksheet]](./files/4_23.pdf) [[Answers]](./files/4_23_ans.pdf)
 
-- Recursion (2024-04-25) [[Worksheet]](./files/4_25.pdf)
+- Recursion (2024-04-25) [[Worksheet]](./files/4_25.pdf) [[Answers]](./files/4_25_ans.pdf)
+
+- [Homework 8 starter code](./files/hw8.zip)
 
 <!--
 - Sequences II and Mutability I (2023-10-05) [[Worksheet]](./notes/10_5.pdf) [[Notes]](./answers/10_5_answers.pdf)
