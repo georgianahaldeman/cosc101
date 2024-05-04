@@ -45,7 +45,7 @@
 
 - [Homework 8 starter code](./files/hw8.zip)
 
-- [[Exam 3 Retake]](./files/4_30.pdf) [[Fall 2023 Final]](./files/5_2.pdf)
+- [[Exam 3 Retake]](./files/4_30.pdf) [[Answers]](./files/4_30_ans.pdf) [[Fall 2023 Final]](./files/5_2.pdf) [[Answers]](./files/5_2_ans.pdf)
 
 <!--
 - Sequences II and Mutability I (2023-10-05) [[Worksheet]](./notes/10_5.pdf) [[Notes]](./answers/10_5_answers.pdf)
